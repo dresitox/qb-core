@@ -13,46 +13,46 @@ QBShared.Gangs = {
     ballas = {
         label = 'Ballas',
         grades = {
-            ['0'] = { name = 'Recruit' },
-            ['1'] = { name = 'Enforcer' },
-            ['2'] = { name = 'Shot Caller' },
-            ['3'] = { name = 'Boss', isboss = true },
+            ['0'] = { name = 'Recluta' },
+            ['1'] = { name = 'Pandillero' },
+            ['2'] = { name = 'Matón' },
+            ['3'] = { name = 'Cabecilla', isboss = true },
         },
     },
     vagos = {
-        label = 'Vagos',
+        label = 'Los Santos Vagos',
         grades = {
-            ['0'] = { name = 'Recruit' },
-            ['1'] = { name = 'Enforcer' },
-            ['2'] = { name = 'Shot Caller' },
-            ['3'] = { name = 'Boss', isboss = true },
+            ['0'] = { name = 'Recluta' },
+            ['1'] = { name = 'Pandillero' },
+            ['2'] = { name = 'Matón' },
+            ['3'] = { name = 'Cabecilla', isboss = true },
         },
     },
     cartel = {
-        label = 'Cartel',
+        label = 'El Cartel de Sinaloa',
         grades = {
-            ['0'] = { name = 'Recruit' },
-            ['1'] = { name = 'Enforcer' },
-            ['2'] = { name = 'Shot Caller' },
-            ['3'] = { name = 'Boss', isboss = true },
+            ['0'] = { name = 'Recluta' },
+            ['1'] = { name = 'Matón' },
+            ['2'] = { name = 'Sicario' },
+            ['3'] = { name = 'El Patrón', isboss = true },
         },
     },
     families = {
         label = 'Families',
         grades = {
-            ['0'] = { name = 'Recruit' },
-            ['1'] = { name = 'Enforcer' },
-            ['2'] = { name = 'Shot Caller' },
-            ['3'] = { name = 'Boss', isboss = true },
+            ['0'] = { name = 'Recluta' },
+            ['1'] = { name = 'Pandillero' },
+            ['2'] = { name = 'Matón' },
+            ['3'] = { name = 'Cabecilla', isboss = true },
         },
     },
     triads = {
         label = 'Triads',
         grades = {
-            ['0'] = { name = 'Recruit' },
-            ['1'] = { name = 'Enforcer' },
-            ['2'] = { name = 'Shot Caller' },
-            ['3'] = { name = 'Boss', isboss = true },
+            ['0'] = { name = 'Recluta' },
+            ['1'] = { name = 'Pandillero' },
+            ['2'] = { name = 'Matón' },
+            ['3'] = { name = 'Cabecilla', isboss = true },
         },
     }
 }
